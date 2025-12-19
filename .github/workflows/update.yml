@@ -2,9 +2,9 @@ name: Sporcafe Bot Guncelle
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Her 30 dakikada bir otomatik çalışır
-  workflow_dispatch:      # Manuel çalıştırma butonu
-  push:                   # Kodda değişiklik yapınca çalışır
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
 
 jobs:
   build:
@@ -28,6 +28,11 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
-          git add Sporcafe.m3u
-          git commit -m "Sporcafe Liste Guncellendi: $(date)" || exit 0
-          git push
+          # Eğer dosya oluşmamışsa hata vermemesi için kontrol ekledik
+          if [ -f Sporcafe.m3u ]; then
+            git add Sporcafe.m3u
+            git commit -m "Sporcafe Liste Guncellendi: $(date)" || exit 0
+            git push
+          else
+            echo "Dosya olusmadigi icin yukleme yapilamadi."
+          fi
