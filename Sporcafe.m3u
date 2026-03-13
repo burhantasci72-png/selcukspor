@@ -1,11 +1,5 @@
 #EXTM3U
-# Guncelleme: 2026-03-13 17:08:35
-#EXTINF:-1 tvg-id="tivibu2" tvg-name="Tivibu Spor 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="SPORCAFE",Tivibu Spor 2
+# Guncelleme: 2026-03-13 18:02:39
+#EXTINF:-1 tvg-id="bein2" tvg-name="BeIN Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="SPORCAFE",BeIN Sports 2
 #EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.450bb93555fef8.click/live/stivibuspor-2/playlist.m3u8
-#EXTINF:-1 tvg-id="ssport1" tvg-name="S Sport 1" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="SPORCAFE",S Sport 1
-#EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.450bb93555fef8.click/live/sssport/playlist.m3u8
-#EXTINF:-1 tvg-id="aspor" tvg-name="A Spor" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png" group-title="SPORCAFE",A Spor
-#EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.450bb93555fef8.click/live/saspor/playlist.m3u8
+https://dga1op10s1u3leo.450bb93555fef8.click/live/sbeinsports-2/playlist.m3u8
