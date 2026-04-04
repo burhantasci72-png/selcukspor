@@ -1,5 +1,5 @@
 #EXTM3U
-# Guncelleme: 2026-04-04 19:35:38
+# Guncelleme: 2026-04-04 20:38:55
 #EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="SPORCAFE",BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
@@ -8,7 +8,7 @@ https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-2/playlist.m3u8
 #EXTINF:-1 tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="SPORCAFE",BeIN Sports 3
 #EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
-https://dga1op10s1u3leo.ec876fd9240622.click/live/sbeinsports-3/playlist.m3u8
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-3/playlist.m3u8
 #EXTINF:-1 tvg-id="bein4" tvg-name="BeIN Sports 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="SPORCAFE",BeIN Sports 4
 #EXTVLCOPT:http-referrer=https://www.sporcafe-4a2fb1f79d.xyz/
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-4/playlist.m3u8
